@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin: 15px 0;
+}
+
+h3,
+p {
+  margin: 10px;
+}
+
+li {
+  margin-left: 10px;
+}
+
+button {
+  margin: 10px;
+  width: 130px;
+  height: 30px;
+}
